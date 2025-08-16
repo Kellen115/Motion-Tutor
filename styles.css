@@ -225,7 +225,5 @@ body.morse .morse-instructions {
   margin-top: 20px; 
   font-size: 1.2em; 
   color:#228BE6;
-  position: relative;
-  left: 650px;
-  bottom: 780px;
+  flex: auto;
 }
